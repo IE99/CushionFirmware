@@ -1,0 +1,7 @@
+LPS25HB.c:372:13:LPS25HB_SlaveAddrRemap	0	static
+LPS25HB.c:299:31:LPS25HB_GetTemperature	24	static
+LPS25HB.c:181:31:LPS25HB_ReadID	8	static
+LPS25HB.c:196:31:LPS25HB_RebootCmd	24	static
+LPS25HB.c:345:31:LPS25HB_PowerOff	24	static
+LPS25HB.c:112:31:LPS25HB_Init	32	static
+LPS25HB.c:255:31:LPS25HB_GetPressure	24	static

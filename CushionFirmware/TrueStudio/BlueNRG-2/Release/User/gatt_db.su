@@ -1,0 +1,12 @@
+gatt_db.c:115:12:Add_Sensor_Service	56	static
+gatt_db.c:391:12:Read_Batt	32	static
+gatt_db.c:407:12:Read_Pressure	32	static
+gatt_db.c:425:12:Notify_Pressure	24	static
+gatt_db.c:443:12:Notify_Download_Val	24	static
+gatt_db.c:457:12:Read_Control_SmallValves	24	static
+gatt_db.c:470:12:Read_Control_BigValve	32	static
+gatt_db.c:491:12:Read_Control_Pump	32	static
+gatt_db.c:512:12:Read_Device_Time	32	static
+gatt_db.c:531:6:External_Memory_Clear	32	static
+gatt_db.c:546:6:Read_Request_CB	8	static
+gatt_db.c:598:6:Write_Request_CB	40	static

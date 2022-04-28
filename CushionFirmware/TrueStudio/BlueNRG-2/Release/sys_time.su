@@ -1,0 +1,8 @@
+sys_time.c:33:6:refresh_sys_time	24	static
+sys_time.c:43:10:get_unix_timestamp	8	static
+sys_time.c:52:12:get_sys_timestamp_us	8	static
+sys_time.c:61:11:sec_to_date	32	static
+sys_time.c:77:10:date_to_sec	16	static
+sys_time.c:90:11:get_date	8	static
+sys_time.c:96:6:sync_time_by_sec	8	static
+sys_time.c:110:6:sync_time_by_rtc	16	static

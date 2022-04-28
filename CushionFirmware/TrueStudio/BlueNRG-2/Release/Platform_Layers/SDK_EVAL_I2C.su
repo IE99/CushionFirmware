@@ -1,0 +1,11 @@
+SDK_EVAL_I2C.c:126:13:SdkEvalI2CInit	48	static
+SDK_EVAL_I2C.c:171:13:SdkEvalI2CWrite	48	static
+SDK_EVAL_I2C.c:219:13:SdkEvalI2CRead	48	static
+SDK_EVAL_I2C.c:288:13:SdkEvalI2CDmaInit	104	static
+SDK_EVAL_I2C.c:366:13:SdkEvalI2CDmaWrite	40	static
+SDK_EVAL_I2C.c:421:13:SdkEvalI2CDmaRead	48	static
+SDK_EVAL_I2C.c:503:6:DmaI2CHandlerCallback	8	static
+SDK_EVAL_I2C.c:540:13:SdkEvalI2CIrqInit	56	static
+SDK_EVAL_I2C.c:595:13:SdkEvalI2CIrqWrite	48	static
+SDK_EVAL_I2C.c:637:13:SdkEvalI2CIrqRead	56	static
+SDK_EVAL_I2C.c:694:6:IrqI2CHandlerCallback	8	static

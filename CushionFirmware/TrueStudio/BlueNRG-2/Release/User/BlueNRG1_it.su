@@ -1,0 +1,7 @@
+BlueNRG1_it.c:63:6:NMI_Handler	0	static
+BlueNRG1_it.c:70:6:HardFault_Handler	0	static
+BlueNRG1_it.c:81:6:SVC_Handler	0	static
+BlueNRG1_it.c:95:6:SysTick_Handler	8	static
+BlueNRG1_it.c:100:6:GPIO_Handler	8	static
+BlueNRG1_it.c:136:6:UART_Handler	8	static
+BlueNRG1_it.c:141:6:Blue_Handler	8	static
